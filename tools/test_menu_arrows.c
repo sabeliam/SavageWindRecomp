@@ -243,3 +243,5 @@ int main(void) {
     puts("menu arrows and Enter: gating, independent bindings, reset and concurrent publication passed");
     return 0;
 }
+
+uint64_t quick_replace_buttons(uint64_t b) { return b; }

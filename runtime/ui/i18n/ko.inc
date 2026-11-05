@@ -692,3 +692,7 @@ T("Quick inventory dropping", "빠른 인벤토리에서 버리기")
 T("Drop weapons, bows and shields from the quick selector. Requires game version 1.9.0.", "빠른 선택 메뉴에서 무기, 활, 방패를 버립니다. 게임 버전 1.9.0이 필요합니다.")
 T("Drop", "버리기")
 T("Back", "뒤로")
+
+T("Replace", "교체")
+T("Quick inventory replacement", "빠른 인벤토리 장비 교체")
+T("Choose equipment to drop when its inventory is full, then receive the new item. Requires game version 1.9.0.", "인벤토리가 가득 차면 버릴 장비를 선택한 뒤 새 아이템을 받습니다. 게임 버전 1.9.0이 필요합니다.")

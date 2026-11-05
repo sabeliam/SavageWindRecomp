@@ -226,3 +226,5 @@ int main(void) {
     SDL_Quit();
     puts("input focus checks passed");
 }
+
+uint64_t quick_replace_buttons(uint64_t b) { return b; }

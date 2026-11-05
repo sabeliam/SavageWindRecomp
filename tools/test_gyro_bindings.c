@@ -72,3 +72,5 @@ int main(void){
     recompute_keyboard();assert(pitch==-1);
     puts("PASS: gyro defaults, pitch direction, U/O/P, remapping, camera ownership, disabling, pause/capture/focus and mouse bindings");
 }
+
+uint64_t quick_replace_buttons(uint64_t b) { return b; }

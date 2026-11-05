@@ -75,6 +75,7 @@ typedef struct {
     int vsync;           // VSYNC_*
     bool rumble;         // controller vibration
     int gpu;             // Vulkan adapter index from the startup log; -1: automatic (restart required)
+    bool quick_replace;   // native full-inventory replacement (1.9.0)
     bool quick_drop;      // native dropping from the quick equipment selector
     bool quick_sort;      // native sorting in the quick equipment selector
     bool dpad_move;      // the d-pad (and arrow keys) also act as the left stick while it is at rest

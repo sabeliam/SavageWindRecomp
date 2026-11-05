@@ -692,3 +692,7 @@ T("Quick inventory dropping", "从快捷物品栏丢弃")
 T("Drop weapons, bows and shields from the quick selector. Requires game version 1.9.0.", "从快捷选择菜单中丢弃武器、弓和盾。需要游戏版本1.9.0。")
 T("Drop", "丢弃")
 T("Back", "返回")
+
+T("Replace", "替换")
+T("Quick inventory replacement", "快捷背包装备替换")
+T("Choose equipment to drop when its inventory is full, then receive the new item. Requires game version 1.9.0.", "背包已满时，选择要丢弃的装备，然后获得新物品。需要游戏版本1.9.0。")

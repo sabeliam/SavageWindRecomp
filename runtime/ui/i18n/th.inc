@@ -692,3 +692,7 @@ T("Quick inventory dropping", "ทิ้งจากช่องเก็บข�
 T("Drop weapons, bows and shields from the quick selector. Requires game version 1.9.0.", "ทิ้งอาวุธ ธนู และโล่จากเมนูเลือกด่วน ต้องใช้เกมเวอร์ชัน 1.9.0")
 T("Drop", "ทิ้ง")
 T("Back", "กลับ")
+
+T("Replace", "แทนที่")
+T("Quick inventory replacement", "เปลี่ยนอุปกรณ์ในกระเป๋าด่วน")
+T("Choose equipment to drop when its inventory is full, then receive the new item. Requires game version 1.9.0.", "เลือกอุปกรณ์ที่จะทิ้งเมื่อกระเป๋าเต็ม แล้วรับไอเทมใหม่ ต้องใช้เกมเวอร์ชัน 1.9.0")

@@ -692,3 +692,7 @@ T("Quick inventory dropping", "Выбрасывание из быстрого и
 T("Drop weapons, bows and shields from the quick selector. Requires game version 1.9.0.", "Выбрасывайте оружие, луки и щиты из меню быстрого выбора. Требуется версия игры 1.9.0.")
 T("Drop", "Выбросить")
 T("Back", "Назад")
+
+T("Replace", "Заменить")
+T("Quick inventory replacement", "Быстрая замена снаряжения")
+T("Choose equipment to drop when its inventory is full, then receive the new item. Requires game version 1.9.0.", "При полном инвентаре выберите снаряжение для выбрасывания, затем получите новый предмет. Требуется версия игры 1.9.0.")

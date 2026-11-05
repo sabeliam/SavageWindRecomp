@@ -692,3 +692,7 @@ T("Quick inventory dropping", "Ausrüstung im Schnellinventar ablegen")
 T("Drop weapons, bows and shields from the quick selector. Requires game version 1.9.0.", "Waffen, Bögen und Schilde aus der Schnellauswahl ablegen. Erfordert Spielversion 1.9.0.")
 T("Drop", "Wegwerfen")
 T("Back", "Zurück")
+
+T("Replace", "Ersetzen")
+T("Quick inventory replacement", "Ausrüstung im Schnellinventar ersetzen")
+T("Choose equipment to drop when its inventory is full, then receive the new item. Requires game version 1.9.0.", "Wähle bei vollem Inventar Ausrüstung zum Ablegen und nimm dann den neuen Gegenstand auf. Erfordert Spielversion 1.9.0.")

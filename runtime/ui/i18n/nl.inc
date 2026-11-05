@@ -692,3 +692,7 @@ T("Quick inventory dropping", "Weggooien uit de snelinventaris")
 T("Drop weapons, bows and shields from the quick selector. Requires game version 1.9.0.", "Gooi wapens, bogen en schilden weg vanuit het snelkeuzemenu. Vereist spelversie 1.9.0.")
 T("Drop", "Weggooien")
 T("Back", "Terug")
+
+T("Replace", "Vervangen")
+T("Quick inventory replacement", "Uitrusting vervangen via snelmenu")
+T("Choose equipment to drop when its inventory is full, then receive the new item. Requires game version 1.9.0.", "Kies uitrusting om weg te gooien als de inventaris vol is en ontvang daarna het nieuwe voorwerp. Vereist spelversie 1.9.0.")

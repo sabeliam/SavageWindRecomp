@@ -213,3 +213,5 @@ int main(void) {
     rotate_drag=false;now+=16000000;mouse_stick(&sx,&sy);assert(sx==0&&sy==0);
     puts("PASS: pointer menus keep middle click bound; Rotate-mode drag turns Link through the right stick");
 }
+
+uint64_t quick_replace_buttons(uint64_t b) { return b; }

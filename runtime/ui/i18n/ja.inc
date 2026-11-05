@@ -692,3 +692,7 @@ T("Quick inventory dropping", "クイックポーチから捨てる")
 T("Drop weapons, bows and shields from the quick selector. Requires game version 1.9.0.", "クイック選択から武器・弓・盾を捨てられます。ゲームのバージョン1.9.0が必要です。")
 T("Drop", "ポーチから出す")
 T("Back", "もどる")
+
+T("Replace", "入れ替える")
+T("Quick inventory replacement", "クイックポーチで装備を入れ替え")
+T("Choose equipment to drop when its inventory is full, then receive the new item. Requires game version 1.9.0.", "ポーチがいっぱいのときに捨てる装備を選び、新しいアイテムを入手します。ゲームバージョン1.9.0が必要です。")

@@ -692,3 +692,7 @@ T("Quick inventory dropping", "Largar no inventário rápido")
 T("Drop weapons, bows and shields from the quick selector. Requires game version 1.9.0.", "Larga armas, arcos e escudos a partir do seletor rápido. Requer a versão 1.9.0 do jogo.")
 T("Drop", "Descartar")
 T("Back", "Voltar")
+
+T("Replace", "Substituir")
+T("Quick inventory replacement", "Substituição no inventário rápido")
+T("Choose equipment to drop when its inventory is full, then receive the new item. Requires game version 1.9.0.", "Escolha um equipamento para descartar quando o inventário estiver cheio e receba o novo item. Requer a versão 1.9.0 do jogo.")
