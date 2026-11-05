@@ -685,3 +685,9 @@ T("Cycle jump", "אופנוע: קפיצה")
 T("Quick inventory sorting", "מיון המלאי המהיר")
 T("Sort weapons, bows and shields in the quick selector. Requires game version 1.9.0.", "מיון נשקים, קשתות ומגנים בתפריט הבחירה המהירה. נדרשת גרסת משחק 1.9.0.")
 T("Sort", "מיון")
+
+// Quick inventory dropping.
+T("Quick inventory dropping", "השלכה מהמלאי המהיר")
+T("Drop weapons, bows and shields from the quick selector. Requires game version 1.9.0.", "השלכת נשקים, קשתות ומגנים מתפריט הבחירה המהירה. נדרשת גרסת משחק 1.9.0.")
+T("Drop", "השלכה")
+T("Back", "חזרה")

@@ -686,3 +686,9 @@ T("The game's own FXAA, which smooths edges as the 3D image is drawn into the fi
 T("Quick inventory sorting", "快捷物品栏排序")
 T("Sort weapons, bows and shields in the quick selector. Requires game version 1.9.0.", "在快捷选择菜单中为武器、弓和盾排序。需要游戏版本1.9.0。")
 T("Sort", "排序")
+
+// Quick inventory dropping.
+T("Quick inventory dropping", "从快捷物品栏丢弃")
+T("Drop weapons, bows and shields from the quick selector. Requires game version 1.9.0.", "从快捷选择菜单中丢弃武器、弓和盾。需要游戏版本1.9.0。")
+T("Drop", "丢弃")
+T("Back", "返回")

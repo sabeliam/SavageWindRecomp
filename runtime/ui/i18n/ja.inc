@@ -686,3 +686,9 @@ T("The game's own FXAA, which smooths edges as the 3D image is drawn into the fi
 T("Quick inventory sorting", "クイックポーチの並べ替え")
 T("Sort weapons, bows and shields in the quick selector. Requires game version 1.9.0.", "クイック選択で武器・弓・盾を並べ替えます。ゲームのバージョン1.9.0が必要です。")
 T("Sort", "並べ替え")
+
+// Quick inventory dropping.
+T("Quick inventory dropping", "クイックポーチから捨てる")
+T("Drop weapons, bows and shields from the quick selector. Requires game version 1.9.0.", "クイック選択から武器・弓・盾を捨てられます。ゲームのバージョン1.9.0が必要です。")
+T("Drop", "ポーチから出す")
+T("Back", "もどる")

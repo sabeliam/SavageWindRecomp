@@ -686,3 +686,9 @@ T("The game's own FXAA, which smooths edges as the 3D image is drawn into the fi
 T("Quick inventory sorting", "Сортировка быстрого инвентаря")
 T("Sort weapons, bows and shields in the quick selector. Requires game version 1.9.0.", "Сортируйте оружие, луки и щиты в меню быстрого выбора. Требуется версия игры 1.9.0.")
 T("Sort", "Сортировать")
+
+// Quick inventory dropping.
+T("Quick inventory dropping", "Выбрасывание из быстрого инвентаря")
+T("Drop weapons, bows and shields from the quick selector. Requires game version 1.9.0.", "Выбрасывайте оружие, луки и щиты из меню быстрого выбора. Требуется версия игры 1.9.0.")
+T("Drop", "Выбросить")
+T("Back", "Назад")

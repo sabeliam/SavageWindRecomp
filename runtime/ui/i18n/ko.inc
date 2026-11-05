@@ -686,3 +686,9 @@ T("The game's own FXAA, which smooths edges as the 3D image is drawn into the fi
 T("Quick inventory sorting", "빠른 인벤토리 정렬")
 T("Sort weapons, bows and shields in the quick selector. Requires game version 1.9.0.", "빠른 선택 메뉴에서 무기, 활, 방패를 정렬합니다. 게임 버전 1.9.0이 필요합니다.")
 T("Sort", "정렬")
+
+// Quick inventory dropping.
+T("Quick inventory dropping", "빠른 인벤토리에서 버리기")
+T("Drop weapons, bows and shields from the quick selector. Requires game version 1.9.0.", "빠른 선택 메뉴에서 무기, 활, 방패를 버립니다. 게임 버전 1.9.0이 필요합니다.")
+T("Drop", "버리기")
+T("Back", "뒤로")

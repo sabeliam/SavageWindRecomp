@@ -686,3 +686,9 @@ T("The game's own FXAA, which smooths edges as the 3D image is drawn into the fi
 T("Quick inventory sorting", "จัดเรียงช่องเก็บของด่วน")
 T("Sort weapons, bows and shields in the quick selector. Requires game version 1.9.0.", "จัดเรียงอาวุธ ธนู และโล่ในเมนูเลือกด่วน ต้องใช้เกมเวอร์ชัน 1.9.0")
 T("Sort", "จัดเรียง")
+
+// Quick inventory dropping.
+T("Quick inventory dropping", "ทิ้งจากช่องเก็บของด่วน")
+T("Drop weapons, bows and shields from the quick selector. Requires game version 1.9.0.", "ทิ้งอาวุธ ธนู และโล่จากเมนูเลือกด่วน ต้องใช้เกมเวอร์ชัน 1.9.0")
+T("Drop", "ทิ้ง")
+T("Back", "กลับ")
